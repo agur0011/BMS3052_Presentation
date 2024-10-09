@@ -87,6 +87,14 @@
       "titleFontSize": 14,
       "labelFontSize": 12,
       "titlePadding": 20
+    },
+    "facet": {
+      "spacing": 20
+    },
+    "scale": {
+      "bandPaddingInner": 0.1
     }
-  }
+  },
+  "width": 300,
+  "height": 500
 }
